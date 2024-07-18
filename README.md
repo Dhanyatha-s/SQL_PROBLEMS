@@ -1,7 +1,7 @@
 # SQL_PROBLEMS
 > [!Note]
 > Import the database to your preferable workbooks (PostgreSql, MySQL Workbench..)
-### 1. Sales Database.  
+### 1. Sales Database. [click here](https://github.com/Dhanyatha-s/SQL_PROBLEMS/blob/ad8a2671cbe2d6bbf133d13ca38af28137be723d/Sales_db.md)
    -- QUERIES   
      1 . How many transaction has happened   
      2 . How many transaction has happened in 'Chennai'  
