@@ -1,5 +1,5 @@
 ###  Sales Database has 1. customers 2. date, 3.market 4.product, 5.transcations Tables.
-
+#### check on database here [db_dump.sql](https://github.com/Dhanyatha-s/SQL_PROBLEMS/blob/d614775dd1535e772fe8353dca3ffce93d26f8dd/Databases/db_dump.sql)
 > -- QUERIES  
 1 . How many transaction has happened  
 2 . How many transaction has happened in 'Chennai'  
