@@ -1,5 +1,6 @@
 # SQL_PROBLEMS
-
+> [!Note]
+> Import the database to your preferable workbooks (PostgreSql, MySQL Workbench..)
 ### 1. Sales Database.  
    -- QUERIES   
      1 . How many transaction has happened   
